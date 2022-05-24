@@ -1,0 +1,17 @@
+name: ml_exercises
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python == 3.8.10
+  - pandas
+  - isort
+  - altair
+  - altair_viewer
+  - altair_saver
+  - matplotlib
+  - seaborn
+  - numpy
+  - scikit-learn
+  - scipy
+  - vega
