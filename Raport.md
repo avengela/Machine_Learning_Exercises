@@ -23,32 +23,32 @@ Prepare a report (saved as report.md)with the explanations on how you came up wi
 
 
 <a name="EDA"></a>
-
+## EDA
 
 
 
 <a name="Metric"></a>
-
+## Metric
 
 
 
 <a name="Baseline"></a>
-
+## Baseline split
 
 
 
 <a name="Dataset_split"></a>
-
+## Dataset
 
 
 
 <a name="Classification"></a>
-
+## Classification
 
 
 
 <a name="Final_code"></a>
-
+## Final code
 
 <a name="Results"></a>
-
+## Results
